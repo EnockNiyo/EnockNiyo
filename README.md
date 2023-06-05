@@ -1,6 +1,6 @@
 ### Hi there I am Enock Niyomungeri a Software Engineer.
 
-With 2+ years of experience in the IT field. With strong full-stack coding skills, I am able to develop high quality and highly secure code using modern methods. I have participated in design and code reviews for International projects. I have been in multicultural, flexible and self-organized work environment in cross-functional Scrum Teams. Enjoying challenges and problem solving tasks, I am here to help companies save time and increase sales.
+With 2+ years of experience in the IT field. With strong full-stack coding skills, I am able to develop high quality and highly secure code using modern methods. I have participated in design and code reviews for International projects. I have been in multicultural, flexible and self-organized work environment in cross-functional Scrum Teams. Enjoying challenges and problem solving tasks, I am here to help companies save time and increase sales via coding, I can work as job developer or freelancer depanding on project.
 
 <!--
 **EnockNiyo/EnockNiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
